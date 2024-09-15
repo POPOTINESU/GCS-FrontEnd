@@ -6,7 +6,8 @@ This  Repositoy is dedicated to creating the User Interface for the GCS.
 
 ### Front End
 
-* **React**	- React allows for more flexible application development compared to Next.js
+* **Next.js(React)**	- Next.js allow SSR and preloading, along with various other fettures. This results in faseter development and improved appliation performance.
+* **TypeScript**   - TypeScript offers greater safety compared to standard Javascript.
 
 ### Test
 
